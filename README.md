@@ -4,7 +4,7 @@ IP testing tool written in Python.  Works great on RPI 3 with a 3.5 inch screen,
 ## Io Install:
 After cloning or downloading run 
 ```
-setup.bat
+setup.sh
 ```
 To install all dependencies. Then it is as simple as running 
 ```
