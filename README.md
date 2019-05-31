@@ -16,6 +16,12 @@ for the cli, or
 ```
 for the gui!
 
+### Video of the CLI  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9zAGHMEQu0k
 " target="_blank"><img src="http://img.youtube.com/vi/9zAGHMEQu0k/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+### And the Gui: 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=tH2pcyCBzfg
+" target="_blank"><img src="http://img.youtube.com/vi/tH2pcyCBzfg/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
